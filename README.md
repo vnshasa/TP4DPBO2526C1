@@ -138,13 +138,3 @@ Saat tombol **Delete** ditekan, dialog meminta konfirmasi. Data belum dihapus sa
 Setelah penghapusan dikonfirmasi, aplikasi menampilkan pesan berhasil dihapus. Baris `TEST001` sudah tidak ada di tabel sehingga jumlah data kembali menjadi 10.
 
 ![Data berhasil dihapus](Dokumentasi/07-delete-berhasil.png)
-
-## 5. Cara Menjalankan Program
-
-1. Ekstrak repository, lalu buka folder `TP4DPBO2526C1` di IntelliJ IDEA.
-2. Pastikan Project SDK menggunakan JDK yang terpasang di komputer.
-3. Pastikan plugin **Swing UI Designer** sudah aktif di IntelliJ IDEA.
-4. Jika IntelliJ belum mengenali kode Java, klik kanan folder `PeopleData` lalu pilih **Mark Directory As → Sources Root**.
-5. Buka `PeopleMenu.java`, kemudian jalankan method `main()` menggunakan ikon **Run** di samping method tersebut.
-
-`PeopleMenu.form` digunakan oleh Swing UI Designer untuk membangun komponen GUI. Oleh karena itu, jalankan program melalui proses build IntelliJ IDEA dengan plugin terkait aktif, bukan hanya dengan menjalankan `javac` biasa dari terminal.
