@@ -1,8 +1,7 @@
 # TP4 DPBO — PeopleData (Java Swing GUI)
 
-**PeopleData** adalah aplikasi desktop sederhana berbasis Java Swing untuk mengelola data anggota komunitas koding. Aplikasi menyediakan operasi **Create, Read, Update, dan Delete (CRUD)** melalui form dan tabel.
-
-Tampilan dibuat menggunakan **IntelliJ IDEA Swing UI Designer** pada `PeopleMenu.form`, sedangkan logika program ditulis di `PeopleMenu.java`. Data anggota direpresentasikan oleh class `Person`.
+## Janji
+Saya **Vanisha Septiani Auliaputri** dengan **NIM 2510735** mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## 1. Desain dan Fungsi Program
 
@@ -65,8 +64,6 @@ Data disimpan di dalam `ArrayList<Person>` selama aplikasi berjalan, bukan ke da
 | `isInputValid()` dan `showError()` | Memeriksa isian dan menampilkan pesan kesalahan. |
 
 ## 2. Struktur Folder Pengumpulan
-
-Struktur berkas pada repository ini disusun mengikuti struktur pengumpulan pada modul TP4. File Java dan form diletakkan langsung di dalam `PeopleData`.
 
 ```text
 TP4DPBO2526C1/
